@@ -1,10 +1,23 @@
 {
-    "social-media-accounts": [
-        { "telegram": ["https://t.me/CoCuCoH41k", "https://t.me/cocucoh41k_group"] },
-        { "discord": ["https://discord.com/users/834382276136665099"] },
-        { "x": ["https://x.com/CoCuCoH41k"] },
-        { "twitch": ["https://www.twitch.tv/cocucoh41k"] },
-        { "youtube": ["https://www.youtube.com/@CoCuCoH41k"] },
-        { "picarto": ["https://picarto.tv/CoCuCoH41k"] }
+    "social-media-links": [
+        { "telegram": {
+            "account": "https://t.me/CoCuCoH41k",
+            "channel": "https://t.me/cocucoh41k_group"
+            }},
+        { "discord": {
+            "account": "https://discord.com/users/834382276136665099"
+            }},
+        { "x": {
+            "account": "https://x.com/CoCuCoH41k"
+            }},
+        { "twitch": {
+            "account": "https://www.twitch.tv/cocucoh41k"
+            }},
+        { "youtube": {
+            "account": "https://www.youtube.com/@CoCuCoH41k"
+            }},
+        { "picarto": {
+            "account": "https://picarto.tv/CoCuCoH41k"
+        }}
     ]
 }
